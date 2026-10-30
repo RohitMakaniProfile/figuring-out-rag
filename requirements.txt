@@ -1,0 +1,12 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+openai>=1.50
+supabase>=2.9
+elevenlabs>=2.0
+youtube-transcript-api>=1.2
+yt-dlp
+httpx
+numpy
+scikit-learn
+python-dotenv
+pytest

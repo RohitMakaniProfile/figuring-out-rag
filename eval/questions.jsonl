@@ -1,0 +1,24 @@
+{"q": "Digvijay Singh Rawat ne Manipur mein China ke role ke baare mein kya bola?", "intent": "specific", "expect_guests": ["Digvijay Singh Rawat"]}
+{"q": "Hirdesh Singh ne Shah Rukh Khan se kya seekha?", "intent": "specific", "expect_guests": ["Hirdesh Singh"]}
+{"q": "Macron ne young startup founders ko France mein aane ke liye kya offer kiya?", "intent": "specific", "expect_guests": ["Emmanuel Macron"]}
+{"q": "Deepak Sharma ke hisaab se Tihar mein phansi ke baad kya protocol hota hai?", "intent": "specific", "expect_guests": ["Deepak Sharma"]}
+{"q": "Asish Mohapatra ke hisaab se boring business mein big opportunity kaise dhoondhein?", "intent": "specific", "expect_guests": ["Asish Mohapatra"]}
+{"q": "Mohandas Pai ne startups ko RBI se approval lene mein kya dikkat batayi?", "intent": "specific", "expect_guests": ["T. V. Mohandas Pai"]}
+{"q": "Vijay Mallya ne Deccan ko Kingfisher Red mein rebrand karne ki wajah kya batayi?", "intent": "specific", "expect_guests": ["Vijay Mallya"]}
+{"q": "Imtiaz Ali apne bachpan ke jhooth ke baare mein kya kehte hain?", "intent": "specific", "expect_guests": ["Imtiaz Ali"]}
+{"q": "Khan Sir ke hisaab se India ki sabse badi galti economy mein kya hai?", "intent": "specific", "expect_guests": ["Khan Sir"]}
+{"q": "Mitesh Khatri law of attraction aur manifest karne ke baare mein kya samjhate hain?", "intent": "specific", "expect_guests": ["Mitesh Khatri"]}
+{"q": "Major Rishabh Singh Sambyal President ke ADC ki life ke baare mein kya batate hain?", "intent": "specific", "expect_guests": ["Rishabh Singh Sambyal"]}
+{"q": "Ashwin Damera ke hisaab se India ka education system kya acha sikhata hai?", "intent": "specific", "expect_guests": ["Ashwin Damera"]}
+{"q": "Aimen Dean ne Osama bin Laden ko ek insaan ke roop mein kaisa bataya?", "intent": "specific", "expect_guests": ["Aimen Dean"]}
+{"q": "Khan Sir aur Mohandas Pai ne India ki problems par kya alag bola?", "intent": "compare", "expect_guests": ["Khan Sir", "T. V. Mohandas Pai"]}
+{"q": "Asish Mohapatra aur Ashwin Damera ki career aur business growth par advice mein kya fark hai?", "intent": "compare", "expect_guests": ["Asish Mohapatra", "Ashwin Damera"]}
+{"q": "Business shuru karne ke baare mein guests ki common advice kya hai?", "intent": "theme", "expect_guests": []}
+{"q": "Guests ne paise aur wealth ke baare mein kya lessons diye?", "intent": "theme", "expect_guests": []}
+{"q": "Filmmaking aur Bollywood samajhne ke liye kaunsa episode dekhun?", "intent": "recommend", "expect_guests": ["Imtiaz Ali"]}
+{"q": "Terrorism aur 9/11 ke peeche ka network samajhna hai, kaunsa episode dekhun?", "intent": "recommend", "expect_guests": ["Aimen Dean"]}
+{"q": "Aaj Delhi ka weather kaisa hai?", "intent": "out_of_scope", "expect_guests": []}
+{"q": "Elon Musk ne Starship ke baare mein is podcast mein kya kaha?", "intent": ["specific", "out_of_scope"], "expect_guests": [], "unanswerable": true, "absent": ["Starship", "Musk"]}
+{"q": "Virat Kohli ne apni batting technique ke baare mein kya bola?", "intent": ["specific", "out_of_scope"], "expect_guests": [], "unanswerable": true, "absent": ["Kohli", "batting"]}
+{"q": "Sadhguru ne meditation ke baare mein kya bataya?", "intent": ["specific", "out_of_scope"], "expect_guests": [], "unanswerable": true, "absent": ["Sadhguru"]}
+{"q": "Ratan Tata ne Tata Nano ke baare mein kya kaha?", "intent": ["specific", "out_of_scope"], "expect_guests": [], "unanswerable": true, "absent": ["Ratan", "Nano"]}

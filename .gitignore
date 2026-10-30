@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.mcp.json
+.DS_Store
