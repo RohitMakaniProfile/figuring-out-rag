@@ -6,3 +6,6 @@ __pycache__/
 .idea/
 .mcp.json
 .DS_Store
+.vercel
+.env*
+.vercel/
