@@ -15,7 +15,7 @@ if you ever need to rebuild it on another project. Do not apply it twice to RajP
 
 ```bash
 python -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements-ingest.txt   # web app only: requirements.txt
 cp .env.example .env        # fill in keys yourself; the service-role key must never reach the browser
 python -m pytest -q         # 84 tests, no network needed
 ```

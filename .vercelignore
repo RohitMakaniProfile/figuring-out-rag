@@ -1,0 +1,6 @@
+tests/
+eval/
+scripts/
+supabase/
+.env
+.pytest_cache/
